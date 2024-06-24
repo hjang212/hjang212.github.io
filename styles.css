@@ -1,0 +1,98 @@
+body {
+  background-color: #586b86;
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+/* .established {
+  font-style: italic;
+} */
+
+h1, h2, p {
+  text-align: center;
+}
+
+.container {
+  width: 80%;
+  /* background-color: burlywood; */
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+hr {
+  height: .1px;
+  background-color: black;
+  border-color: black;
+}
+
+.bottom-line {
+  margin-top: 25px;
+}
+
+h1, h2 {
+  font-family: "Noto Sans KR", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.item p {
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+/* .flavor, .dessert {
+  text-align: left;
+  width: 75%;
+} */
+
+/* .price {
+  text-align: right;
+  width: 25%;
+} */
+
+/* FOOTER */
+
+footer {
+  font-size: 14px;
+}
+
+.address {
+  margin-bottom: 5px;
+}
+
+a {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: white;
+}
+
+a:active {
+  color: white;
+}
