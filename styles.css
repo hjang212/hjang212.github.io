@@ -41,8 +41,8 @@ img {
 
 hr {
   height: .1px;
-  background-color: black;
-  border-color: black;
+  background-color: grey;
+  border-color: grey;
 }
 
 .bottom-line {
