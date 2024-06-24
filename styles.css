@@ -10,12 +10,14 @@ h1 {
   font-size: 40px;
   margin-top: 0;
   margin-bottom: 15px;
-  color:aliceblue;
+  /* color:aliceblue; */
+  color:black;
 }
 
 h2 {
   font-size: 30px;
-  color:aliceblue;
+  /* color:aliceblue; */
+  color:black;
 }
 
 /* .established {
